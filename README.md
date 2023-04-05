@@ -60,3 +60,6 @@ Socials:
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
+  
+  
+https://www.codewars.com/users/kostya322069/badges/large
