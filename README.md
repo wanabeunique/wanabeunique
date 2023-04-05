@@ -1,9 +1,4 @@
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Kostya, a full-time frontend freelance developer</div>  
   
 
