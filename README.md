@@ -62,4 +62,4 @@ Socials:
   </div>
   
   
-![codewars]https://www.codewars.com/users/kostya322069/badges/large
+![codewars](https://www.codewars.com/users/kostya322069/badges/large)
