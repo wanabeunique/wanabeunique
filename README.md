@@ -72,4 +72,6 @@ Socials:
   
  </br>
 
-<img src="https://www.codewars.com/users/wanabeunique/badges/large">
+<a href="https://www.codewars.com/users/wanabeunique"> 
+  <img src="https://www.codewars.com/users/wanabeunique/badges/large">
+</a>
