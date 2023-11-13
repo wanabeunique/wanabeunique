@@ -77,4 +77,4 @@ Socials:
   <img src="https://www.codewars.com/users/wanabeunique/badges/large">
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanabeunique)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanabeunique&size_weight=0.5&count_weight=0.5)
