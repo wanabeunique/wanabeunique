@@ -76,5 +76,3 @@ Socials:
 <a href="https://www.codewars.com/users/wanabeunique"> 
   <img src="https://www.codewars.com/users/wanabeunique/badges/large">
 </a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanabeunique&size_weight=0.5&count_weight=0.5)
